@@ -25,13 +25,13 @@ This project is an interactive Excel dashboard created to analyze sales data fro
 
 ---
 
-## 📷 Dashboard Preview
+## Dashboard Preview
 <img width="1857" height="780" alt="dashboard" src="https://github.com/user-attachments/assets/20a1f0b1-a88b-47cb-ba96-68ab0578d0e6" />
 
 
 ---
 
-## 🛠 Tools Used
+## Tools Used
 
 * Microsoft Excel
 * Pivot Tables
