@@ -1,6 +1,6 @@
 #  FNP Sales Analysis Dashboard (Excel Project)
 
-##  Overview
+## Overview
 
 This project is an interactive Excel dashboard created to analyze sales data from Ferns N Petals (FNP). It provides insights into revenue trends, customer behavior, and product performance.
 
