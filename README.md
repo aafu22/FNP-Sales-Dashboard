@@ -1,12 +1,12 @@
-# 🌸 FNP Sales Analysis Dashboard (Excel Project)
+#  FNP Sales Analysis Dashboard (Excel Project)
 
-## 📊 Overview
+##  Overview
 
 This project is an interactive Excel dashboard created to analyze sales data from Ferns N Petals (FNP). It provides insights into revenue trends, customer behavior, and product performance.
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
 * Total Orders, Revenue, and Avg. Customer Spending KPIs
 * Revenue analysis by:
@@ -41,7 +41,7 @@ This project is an interactive Excel dashboard created to analyze sales data fro
 
 ---
 
-## 📁 Dataset
+##  Dataset
 
 The dataset contains sales-related information such as:
 
@@ -54,7 +54,7 @@ The dataset contains sales-related information such as:
 
 ---
 
-## 💡 Insights Derived
+## Insights Derived
 
 * Highest revenue generated during special occasions like Anniversary & Raksha Bandhan
 * Peak sales observed in specific months (e.g., February & August)
@@ -63,7 +63,7 @@ The dataset contains sales-related information such as:
 
 ---
 
-## 🚀 How to Use
+##  How to Use
 
 1. Download the Excel file
 2. Open in Microsoft Excel
@@ -71,7 +71,7 @@ The dataset contains sales-related information such as:
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 Aafiya Javed
 
